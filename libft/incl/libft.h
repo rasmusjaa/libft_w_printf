@@ -6,7 +6,7 @@
 /*   By: rjaakonm <rjaakonm@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/10/16 11:58:55 by rjaakonm          #+#    #+#             */
-/*   Updated: 2019/12/17 12:46:27 by rjaakonm         ###   ########.fr       */
+/*   Updated: 2020/01/13 13:55:03 by rjaakonm         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 # include <stdlib.h>
 # include <unistd.h>
 # include <string.h>
-# define BUFF_SIZE 1
+# define BUFF_SIZE 16384
 # define MAX_FD 2000
 # define BASE16UC "0123456789ABCDEF"
 # define BASE16LC "0123456789abcdef"
